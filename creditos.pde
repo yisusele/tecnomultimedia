@@ -1,5 +1,5 @@
 int posX, posY;
- int v=5;
+int v=5;
  void creditos(){
    estado=3;
    botonatras();

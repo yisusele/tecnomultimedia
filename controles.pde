@@ -1,5 +1,5 @@
 void controles(){
-  estado=4;
+ estado=4;
  botonatras();
  fill(255);
  textSize(50);
